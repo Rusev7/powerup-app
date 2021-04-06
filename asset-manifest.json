@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "./static/css/main.d5500e1b.chunk.css",
+    "main.js": "./static/js/main.785aa645.chunk.js",
+    "main.js.map": "./static/js/main.785aa645.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.db3f1570.js",
+    "runtime-main.js.map": "./static/js/runtime-main.db3f1570.js.map",
+    "static/js/2.caf26946.chunk.js": "./static/js/2.caf26946.chunk.js",
+    "static/js/2.caf26946.chunk.js.map": "./static/js/2.caf26946.chunk.js.map",
+    "static/js/3.4e4aed53.chunk.js": "./static/js/3.4e4aed53.chunk.js",
+    "static/js/3.4e4aed53.chunk.js.map": "./static/js/3.4e4aed53.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/main.d5500e1b.chunk.css.map": "./static/css/main.d5500e1b.chunk.css.map",
+    "static/js/2.caf26946.chunk.js.LICENSE.txt": "./static/js/2.caf26946.chunk.js.LICENSE.txt",
+    "static/media/RegisterSection.css": "./static/media/home-image-1.8fbf6b8f.jpg",
+    "static/media/StartSection.css": "./static/media/home-image.c6780dff.jpg",
+    "static/media/NavigationButton.css": "./static/media/navi-button-2.c9b9a2e4.jpg",
+    "static/media/RegisterForm.css": "./static/media/register-modal.8beb4a4c.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.db3f1570.js",
+    "static/js/2.caf26946.chunk.js",
+    "static/css/main.d5500e1b.chunk.css",
+    "static/js/main.785aa645.chunk.js"
+  ]
+}
